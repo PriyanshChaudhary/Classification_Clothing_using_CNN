@@ -9,4 +9,4 @@ Yes! That's how it works. The neural network is like the neuron system in our br
 neuron to another then again from this one to that one, ultimately culiminating in a single action or decision. that is how
 we program these machines to do. 
 it's like raising a toddler. you teach them to read the alphabets 7 years later they can understand words & read sentences 
-and further years ahead, you see them writing essays and stories.
+and further years ahead, you see them writing essays and stories...
