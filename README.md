@@ -10,3 +10,5 @@ neuron to another then again from this one to that one, ultimately culiminating 
 we program these machines to do. 
 it's like raising a toddler. you teach them to read the alphabets 7 years later they can understand words & read sentences 
 and further years ahead, you see them writing essays and stories.
+
+# Neuron
