@@ -13,3 +13,4 @@ and further years ahead, you see them writing essays and stories.
 
 # Neuron
 This area emphasizes more on that artificical neuron structure of the mdoel.
+...
